@@ -42,7 +42,7 @@ Is analysis ka goal hai business ke sales aur profit trends samajhna, top/bottom
 ### Discount vs Profit Relationship
 ![Discount vs Profit](images/discount_profit.png)
 
-### SubProfit by Sub-Category
+### Profit by Sub-Category
 ![Sub-Category Profit](images/subcategory_profit.png)
 
 ---
